@@ -1,0 +1,25 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
+</style>
+
+header a {
+ text-decoration: none;
+ font-family: 'Cinzel', serif;
+ padding-bottom: 0;
+
+}
+
+section h1{
+color: red;
+ font-family: 'Cinzel', serif;
+}
+
+
+
+#special{
+  color:blue;
+}
+
+.green{
+ color:green;
+}
